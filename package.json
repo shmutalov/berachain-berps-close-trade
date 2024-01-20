@@ -16,6 +16,9 @@
   "author": "Sherzod Mutalov",
   "license": "GPL-2.0-only",
   "dependencies": {
+    "@metamask/sdk": "^0.14.2",
+    "qrcode-terminal": "^0.12.0",
     "web3": "^4.4.0"
-  }
+  },
+  "type": "module"
 }
