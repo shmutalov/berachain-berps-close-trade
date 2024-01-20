@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "find": "node src/find-trade.js",
+    "close": "node src/close-trade.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
