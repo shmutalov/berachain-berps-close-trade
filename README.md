@@ -1,3 +1,5 @@
+You need to install `MetaMask` mobile wallet, to be able to connect to `Berachain Testnet` and sing the transactions. On the first run of the script, QR-code will be generated, you need to scan it with MetaMask.
+
 - To find the open trade just run `npm run find`
 - To close trade just run `npm run close`
 
